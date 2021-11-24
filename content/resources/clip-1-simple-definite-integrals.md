@@ -1,0 +1,16 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Clip 1: Simple Definite Integrals'
+uid: cf3655fd-b915-c7a2-de51-eb5f8a7270e0
+video_files:
+  video_captions_file: /courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-45-some-easy-integrals/clip-1-simple-definite-integrals/hjZhPczMkL4.vtt
+video_metadata:
+  youtube_id: hjZhPczMkL4
+---
+
+» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses45a)
+
+From Lecture 18 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)

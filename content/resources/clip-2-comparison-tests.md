@@ -1,0 +1,16 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Clip 2: Comparison Tests'
+uid: 0fae367a-b6ad-00a1-134e-90a124d98f74
+video_files:
+  video_captions_file: /courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/clip-2-comparison-tests/MK_0QHbUnIA.vtt
+video_metadata:
+  youtube_id: MK_0QHbUnIA
+---
+
+» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses95b)
+
+From Lecture 37 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)

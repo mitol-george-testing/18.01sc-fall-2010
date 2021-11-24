@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/18-01sc-single-variable-calculus-fall-2010/9345d8643ca71f9ca2b3a4fa8e0cadca_60VGKnYBpbg.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 9345d864-3ca7-1f9c-a2b3-a4fa8e0cadca
+---
